@@ -1,6 +1,21 @@
 # 💫 About Me:
 
-I'am fresh graduate from STMIK IKMI Cirebon
+Hello! I'm a passionate Full-Stack Web Developer with a strong background in Laravel, JavaScript, and TypeScript. I hold a degree in Informatics Engineering from STMIK IKMI Cirebon, and I've gained hands-on experience in both network engineering and IT support.
+
+Currently, I'm exploring various frameworks and tools, contributing to open-source projects, and continuously improving my skills through personal projects and bootcamps, including SYNGRY ACADEMY BCA by Binar Academy.
+
+💻 Skills & Technologies:
+
+- Backend: PHP (Laravel), Node.js (Express)
+- Frontend: HTML, CSS, JavaScript, TypeScript, Vue.js, React
+- Databases: MySQL, PostgreSQL
+- Version Control: Git, GitHub
+- Tools: Docker, Composer, NPM/Yarn
+  🌱 Current Focus:
+
+Building scalable and maintainable web applications.
+Exploring DevOps practices and cloud services.
+Feel free to check out my repositories, and don't hesitate to reach out for collaborations or just a friendly chat about tech!
 
 ## 🌐 Socials:
 
@@ -18,8 +33,6 @@ I'am fresh graduate from STMIK IKMI Cirebon
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mhmadrizallll&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhmadrizallll&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadrizallll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
