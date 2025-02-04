@@ -7,11 +7,12 @@ Currently, I'm exploring various frameworks and tools, contributing to open-sour
 💻 Skills & Technologies:
 
 - Backend: PHP (Laravel), Node.js (Express)
-- Frontend: HTML, CSS, JavaScript, TypeScript, Vue.js, React
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, Boostrap and Tailwind
 - Databases: MySQL, PostgreSQL
 - Version Control: Git, GitHub
 - Tools: Docker, Composer, NPM/Yarn
-  🌱 Current Focus:
+
+🌱 Current Focus:
 
 Building scalable and maintainable web applications.
 Exploring DevOps practices and cloud services.
