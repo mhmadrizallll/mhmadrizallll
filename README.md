@@ -6,11 +6,11 @@ Currently, I'm exploring various frameworks and tools, contributing to open-sour
 
 💻 Skills & Technologies:
 
-- Backend: PHP (Laravel), Node.js (Express)
+- Backend: PHP (Laravel), Node.js (Express), Java (Spring boot)
 - Frontend: HTML, CSS, JavaScript, TypeScript, React, Boostrap and Tailwind
 - Databases: MySQL, PostgreSQL
 - Version Control: Git, GitHub
-- Tools: Docker, Composer, NPM/Yarn
+- Tools: Composer, NPM/Yarn, Maven
 
 🌱 Current Focus:
 
